@@ -11,6 +11,12 @@ O projeto conta com três tabelas principais:
 - `tipos_materiais`: Catálogo de materiais aceitos e sua pontuação.
 - `coletas`: Registro detalhado de cada movimentação.
 
+### Modelo Relacional (Diagrama)
+<div align="left">
+  <img src="./assets/der_eco_sql.png" alt="diagrama do banco de dados" width="35%">
+</div>
+
+
 ### Tecnologias Utilizadas
 - SQL (Structured Query Language)
 - Banco de Dados Relacional (Ex: MySQL, PostgreSQL ou SQLite)
